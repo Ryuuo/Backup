@@ -1,0 +1,85 @@
+Sunday|日曜日
+Monday|月曜日
+Tuesday|火曜日
+Wednesday|水曜日
+Thursday|木曜日
+Friday|金曜日
+Saturday|土曜日
+Sunny|晴れ
+Cloudy|くもり
+Rainy|雨
+usually|たいてい
+How about you|あなたはどうですか?
+sometimes|ときどき
+one|1
+two|2
+three|3
+four|4
+five|5
+six|6
+seven|7
+eight|8
+nine|9
+ten|10
+Let's go together|いっしょに行こう
+want|欲しい
+early|早く
+here|ここ
+there|そこ
+be quiet|静かにしなさい
+that|あの
+the|その
+this|この
+it|それは
+the|その
+a little|少し
+different|違う
+they|彼女たちは
+beautiful
+They|彼たちは
+They|それらは
+always|いつも
+studies|三単現のstudy
+very well|とても上手に
+hard|一生懸命
+clever|かしこい
+January|１月
+February|２月
+March|３月
+April|４月
+May|５月
+June|６月
+July|７月
+August|８月
+September|９月
+October|１０月
+November|１１月
+December|１２月
+Spring|春
+Summer|夏
+Fall|秋
+winter|冬
+right|~ですよね？: He's bery clever,
+come from|からくる
+first|一番
+second|二番
+third|三番
+fourth|四番
+fifth|五番
+six|六番
+seventh|七番
+eighth|八番
+ninth|九番
+tenth|十番
+eleventh|十一番
+werlfth|十二番
+trirteenth|十三番
+fourteenth|十四番
+twentieth|二十番
+thirtieth|三十番
+What's the date today?|今日は何月何日ですか?
+These|これらの
+fast|速く
+which|どちらの
+of course|はい、もちろん
+still|まだ
